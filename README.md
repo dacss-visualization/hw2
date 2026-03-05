@@ -1,3 +1,3 @@
 # hw2
 Homework 2
-http://rpubs.com/dparke/1405621
+https://dacss-visualization.github.io/hw2/
